@@ -1,0 +1,33 @@
+.style1 {
+  background-color: #d53434;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-left: 4vw;
+  margin-top: 7.512315270935961vh;
+  width: 29.6vw;
+  height: 24.533333333333335vw;
+  z-index: 0
+}
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style3 {
+  background-color: #d53434;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-left: 35.733333333333334vw;
+  margin-top: 22.906403940886698vh;
+  width: 29.6vw;
+  height: 24.533333333333335vw;
+  z-index: 0
+}
+.breakpoint-0 {
+  display: block
+}
