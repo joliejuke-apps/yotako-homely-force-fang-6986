@@ -1,0 +1,21 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style1 {
+  background-color: #fff;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-left: 12vw;
+  margin-top: 16.00985221674877vh;
+  width: 29.066666666666666vw;
+  height: 27.2vw;
+  z-index: 0
+}
+.breakpoint-0 {
+  display: block
+}
