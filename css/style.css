@@ -1,0 +1,23 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style1 {
+  margin-left: 18.666666666666668vw;
+  margin-top: 9.35960591133005vh;
+  width: 34.4vw;
+  height: 36.8vw;
+  z-index: 0
+}
+.style2 {
+  margin-left: 36vw;
+  margin-top: 19.334975369458128vh;
+  width: 41.86666666666667vw;
+  height: 60vw;
+  z-index: 1
+}
+.breakpoint-0 {
+  display: block
+}
